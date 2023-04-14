@@ -1,0 +1,228 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV.us"  tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="SPORTS",UFC TV
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/52716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC.es"  tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/ufc-logo-1.png" group-title="SPORTS",UFC ES
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC.us"  tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/ufc-logo-1.png" group-title="SPORTS",UFC USA
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Fight_Network_%282011%29.svg"  group-title="SPORTS",FIGHT NETWORK
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Combate World.us"  tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/c/c0/CG_logo_final.svg" group-title="SPORTS",PUTO TV COMBATE WORLD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId= 
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png" group-title="SPORTS",FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight.us"  tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Channel-Fight.png" group-title="SPORTS",FIGHT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Impact Wrestling.us"  tvg-logo="https://www.dafont.com/forum/attach/orig/2/7/272587.gif" group-title="SPORTS",IMPACT WRESTLING
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+#EXTINF:-1 tvg-id="" tvg-name=PFL MMA.us"  tvg-logo="https://mymmanews.com/wp-content/uploads/2019/03/pfl-photo-768x432.png" group-title="SPORTS",PFL MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name=MMA Junkie.us"  tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/10/hi-res-logo.jpg" group-title="SPORTS",MMA JUNKIE
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=Pluto TV Bellator MMA.us"  tvg-logo="https://logotyp.us/files/bellator.svg" group-title="SPORTS",BELLATOR MMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGSff 
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV.us"  tvg-logo="https://seeklogo.com/images/N/nba-logo-59F0731E03-seeklogo.com.png" group-title="SPORTS",NBA TV
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network.us"  tvg-logo="https://img.onesignal.com/t/7c55e6a6-0967-4220-9856-655bc35f87af.png" group-title="SPORTS",NFL NETWORK
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network.us"  tvg-logo="https://logosmarcas.net/wp-content/uploads/2021/09/MLB-Logo.png" group-title="SPORTS",MLB NETWORK
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim.us"  tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg" group-title="SPORTS",ADULT SWIM
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I"  tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Rick-And-Morty-Logo.png" group-title="SPORTS",RICK AND MORTY
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-id="TravelBoxBrazil.br" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/10/13122016/Logo_Travel-Box-Brazil-1024x1008.png" group-title="BRASIL",TRAVEL BOX BRAZIL
+http://mn.appserv19.xyz:2095/live/Xplus-1-jiwIT8A5AY/XdEPK9NEbk/848.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-id="MaisnaTela.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/modoviagem.png" group-title="BRASIL",MODO VIAGEM
+http://mn.appserv19.xyz:2095/live/Xplus-1-jiwIT8A5AY/XdEPK9NEbk/85.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Science.us" tvg-logo="https://www.seekpng.com/png/full/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png" group-title="ENGLISH",SCIENCE
+http://iptv-tn.com:8080/live/ottking/ottking_mcoes.live/15469.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Science.us" tvg-logo="https://www.seekpng.com/png/full/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png" group-title="ENGLISH",SCIENCE
+http://hidra.live:80/live/nqeswyhe/F14pkqg66T/43715.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Science.us" tvg-logo="https://www.seekpng.com/png/full/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png" group-title="ENGLISH",SCIENCE
+http://hidra.live:80/live/rwngtbmi/60sPa6Nx2n/43715.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Science.us" tvg-logo="https://www.seekpng.com/png/full/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png" group-title="ENGLISH",SCIENCE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52825.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Science.us" tvg-logo="https://www.seekpng.com/png/full/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png" group-title="ENGLISH",SCIENCE
+http://revteam11.offshorerev.cc:80/live/SPIDER_sZAgst/VlGuTc8BQS/155755.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Science.us" tvg-logo="https://www.seekpng.com/png/full/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png" group-title="ENGLISH",SCIENCE
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/3750.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.nicepng.com/png/detail/134-1342817_science-channel-logo.png" group-title="ENGLISH",DISCOVERY SCIENCE UK
+http://sharkytv.com:2082/live/mihhalich/wSxmVoXyBe/16284.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.nicepng.com/png/detail/134-1342817_science-channel-logo.png" group-title="ENGLISH",DISCOVERY SCIENCE UK
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/3207.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.nicepng.com/png/detail/134-1342817_science-channel-logo.png" group-title="ENGLISH",DISCOVERY SCIENCE UK
+http://iptvtree.net:8080/tomstme300/tomasarenatelegramme300/713
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.nicepng.com/png/detail/134-1342817_science-channel-logo.png" group-title="ENGLISH",DISCOVERY SCIENCE UK
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/713
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.nicepng.com/png/detail/134-1342817_science-channel-logo.png" group-title="ENGLISH",DISCOVERY SCIENCE UK
+http://revteam11.offshorerev.cc:80/live/SPIDER_fsXZuf/N28VPu0WiL/165597.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="TrueHistory.us" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg" group-title="ENGLISH",TRUE HISTORY
+https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg" group-title="ENGLISH",TRUE HISTORY SD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryHistory.uk" tvg-logo="https://www.pngfind.com/pngs/m/683-6830309_discovery-history-logo-hd-png-download.png" group-title="ENGLISH",DISCOVERY HISTORY
+http://iptv-tn.com:8080/live/ottking/ottking_mcoes.live/58028.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryHistory.uk" tvg-logo="https://www.pngfind.com/pngs/m/683-6830309_discovery-history-logo-hd-png-download.png" group-title="ENGLISH",DISCOVERY HISTORY
+http://sharkytv.com:2082/live/mihhalich/wSxmVoXyBe/16289.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryHistory.uk" tvg-logo="https://www.pngfind.com/pngs/m/683-6830309_discovery-history-logo-hd-png-download.png" group-title="ENGLISH",DISCOVERY HISTORY
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/694
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryHistory.uk" tvg-logo="https://www.pngfind.com/pngs/m/683-6830309_discovery-history-logo-hd-png-download.png" group-title="ENGLISH",DISCOVERY HISTORY
+http://iptvtree.net:8080/tomstme300/tomasarenatelegramme300/694
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryHistory.uk" tvg-logo="https://www.pngfind.com/pngs/m/683-6830309_discovery-history-logo-hd-png-download.png" group-title="ENGLISH",DISCOVERY HISTORY
+http://revteam11.offshorerev.cc:80/live/SPIDER_fsXZuf/N28VPu0WiL/165599.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="DiscoveryHistory.uk" tvg-logo="https://www.pngfind.com/pngs/m/683-6830309_discovery-history-logo-hd-png-download.png" group-title="ENGLISH",DISCOVERY HISTORY
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/172215.m3u8
+
+#EXTINF:-1 tvg-country="GB" tvg-language="English" tvg-id="SkyArts.uk" tvg-logo="https://static.wixstatic.com/media/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg/v1/fill/w_602,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg" group-title="ENGLISH",SKY ARTS
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/8713.m3u8
+#EXTINF:-1 tvg-country="GB" tvg-language="English" tvg-id="SkyArts.uk" tvg-logo="https://static.wixstatic.com/media/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg/v1/fill/w_602,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg" group-title="ENGLISH",SKY ARTS
+http://iptvtree.net:8080/tomstme300/tomasarenatelegramme300/1094
+#EXTINF:-1 tvg-country="GB" tvg-language="English" tvg-id="SkyArts.uk" tvg-logo="https://static.wixstatic.com/media/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg/v1/fill/w_602,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg" group-title="ENGLISH",SKY ARTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1094
+#EXTINF:-1 tvg-country="GB" tvg-language="English" tvg-id="SkyArts.uk" tvg-logo="https://static.wixstatic.com/media/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg/v1/fill/w_602,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg" group-title="ENGLISH",SKY ARTS
+http://revteam11.offshorerev.cc:80/SPIDER_sZAgst/VlGuTc8BQS/139312
+#EXTINF:-1 tvg-country="GB" tvg-language="English" tvg-id="SkyArts.uk" tvg-logo="https://static.wixstatic.com/media/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg/v1/fill/w_602,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/38230b_8250389a5cad44f5af0b76174094d0ed~mv2.jpg" group-title="ENGLISH",SKY ARTS
+http://box.slweb.tv:8880/live/pacha-man1/j1TZ2f2TTV/100.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="SkyHistory.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sky_History_Logo_2020.png" group-title="ENGLISH",SKY HISTORY
+http://sharkytv.com:2082/live/mihhalich/wSxmVoXyBe/208705.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="SkyHistory.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sky_History_Logo_2020.png" group-title="ENGLISH",SKY HISTORY
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/180687.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="SkyHistory.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sky_History_Logo_2020.png" group-title="ENGLISH",SKY HISTORY
+http://revteam11.offshorerev.cc:80/live/SPIDER_fsXZuf/4/165592.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="HistoryEast.us" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-768x805.png" group-title="ENGLISH",HISTORY CHANNEL EAST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145967.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="HistoryEast.us" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-768x805.png" group-title="ENGLISH",HISTORY CHANNEL EAST
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/5317.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Yesterday.uk" tvg-logo="https://e7.pngegg.com/pngimages/742/324/png-clipart-youtube-just-do-it-yesterday-nike-television-watching-tv-television-angle.png" group-title="ENGLISH",YESTERDAY
+http://iptvtree.net:8080/tomstme300/tomasarenatelegramme300/1065
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Yesterday.uk" tvg-logo="https://e7.pngegg.com/pngimages/742/324/png-clipart-youtube-just-do-it-yesterday-nike-television-watching-tv-television-angle.png" group-title="ENGLISH",YESTERDAY
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1065
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Yesterday.uk" tvg-logo="https://e7.pngegg.com/pngimages/742/324/png-clipart-youtube-just-do-it-yesterday-nike-television-watching-tv-television-angle.png" group-title="ENGLISH",YESTERDAY
+http://i4cool.club:80/live/BNBUJLSggs/jt7Z92KkYm/3684.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Yesterday.uk" tvg-logo="https://e7.pngegg.com/pngimages/742/324/png-clipart-youtube-just-do-it-yesterday-nike-television-watching-tv-television-angle.png" group-title="ENGLISH",YESTERDAY
+http://box.slweb.tv:8880/live/pacha-man1/j1TZ2f2TTV/57.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="DiscoveryChannelEast.us" tvg-logo="https://w7.pngwing.com/pngs/697/561/png-transparent-discovery-channel-discovery-world-television-channel-1995-miscellaneous-television-logo.png" group-title="ENGLISH",DISCOVERY CHANNEL EAST
+http://sharkytv.com:2082/live/mihhalich/wSxmVoXyBe/32344.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="DiscoveryChannelWest.us" tvg-logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png" group-title="ENGLISH",DISCOVERY CHANNELy
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145942.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/556121a2e4b0e7bb1a719380/1625755043171-ZJH1X3NWVA2YJMGZA19B/smithsonian-channel.png" group-title="ENGLISH",SMITHSONIAN CHANNEL ASIA
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="SmithsonianChannelWest.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/556121a2e4b0e7bb1a719380/1625755043171-ZJH1X3NWVA2YJMGZA19B/smithsonian-channel.png" group-title="ENGLISH",SMITHSONIAN CHANNEL WEST
+http://109.202.99.203:8080/live/P8SQcCxqKD/LlXFvYqN6W/27033.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="SmithsonianChannelEast.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/556121a2e4b0e7bb1a719380/1625755043171-ZJH1X3NWVA2YJMGZA19B/smithsonian-channel.png" group-title="ENGLISH",SMITHSONIAN CHANNEL EAST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145996.m3u8
+
+#EXTINF:-1 tvg-country="GB" tvg-language="English" tvg-id="PBSAmerica.uk" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo-new.png" group-title="ENGLISH",PBS AMERICA
+https://pbs-samsunguk.amagi.tv/playlist360-p.m3u8
+
+#EXTINF:-1 tvg-country="EU" tvg-language="English" tvg-id="" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="ENGLISH",TRAVELXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-country="NZ" tvg-language="English" tvg-id="" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="ENGLISH",TRAVELXP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="Nl" tvg-language="English" tvg-id="" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="ENGLISH",TRAVELXP
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVHistory.us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV HISTORY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVHistory.us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV HISTORY
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVScience.us" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV SCIENCE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVScience.us" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV SCIENCE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="PLUTO TV",SMITHSONIAN CHANNEL SELECTS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="PLUTO TV",SMITHSONIAN CHANNEL SELECTS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVTravel.us" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV TRAVEL US
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVTravel.us" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV TRAVEL US
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVDocumentaries.us" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="PLUTO TV",PLUTO TV DOCUMENTARIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="PlutoTVDocumentaries.us" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="PLUTO TV",PLUTO TV DOCUMENTARIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="PlutoTVDocumentariesUK.uk" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="PLUTO TV",PLUTO TV MY5 DOCUMENTARIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="PlutoTVDocumentariesUK.uk" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="PLUTO TV",PLUTO TV MY5 DOCUMENTARIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="PlutoTVBiographyUK.uk" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV BIOGRAPHY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="PlutoTVBiographyUK.uk" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="PLUTO TV",PLUTO TV BIOGRAPHY
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="UnsolvedMysteries.us" tvg-logo="https://tm.ibxk.com.br/2021/09/02/02002938331000.jpg" group-title="PLUTO TV",UNSOLVED MYSTERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="UnsolvedMysteries.us" tvg-logo="https://tm.ibxk.com.br/2021/09/02/02002938331000.jpg" group-title="PLUTO TV",UNSOLVED MYSTERIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Now70s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/1200px-NOW_70s.png" group-title="MUSIC VIDEOS",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Now70s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/1200px-NOW_70s.png" group-title="MUSIC VIDEOS",NOW 70s SD
+http://iptvtree.net:8080/live/tomstme300/tomasarenatelegramme300/65074.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Now80s.uk" tvg-logo="https://m.media-amazon.com/images/I/81FZkpWusDL.png" group-title="MUSIC VIDEOS",NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Now80s.uk" tvg-logo="https://m.media-amazon.com/images/I/81FZkpWusDL.png" group-title="MUSIC VIDEOS",NOW 80s SD
+http://iptvtree.net:8080/live/tomstme300/tomasarenatelegramme300/4738.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="Now90s.uk" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_90s_GB_logo.png" group-title="MUSIC VIDEOS",NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSIC VIDEOS",VEVO '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSIC VIDEOS",VEVO '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="MUSIC VIDEOS",VEVO '90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-country="US" tvg-id="PlutoTVMTVUnplugged.us" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" group-title="MUSIC VIDEOS",MTV UNPLUGGED PLUTO TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c0aec95deef000075acd09/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="VevoRetroRock.us" tvg-logo="https://seeklogo.com/images/V/vh1-classic-logo-4B212D3683-seeklogo.com.png" group-title="MUSIC VIDEOS",VH1 CLASSIC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="VevoRetroRock.us" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="MUSIC VIDEOS",VEVO RETRO ROCK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="MusicChoiceCountryHits.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s19342_h15_aa.png" group-title="MUSIC VIDEOS",MC COUNTRY HITS HD
+http://45.11.56.147:8808/stream?id=1115
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="StarTrek.us" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="RETRO SERIES",STAR TREK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="StarTrek.us" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="RETRO SERIES",STAR TREK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="TheAddamsFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Addams_gomez5.png" group-title="RETRO SERIES",ADDAMS FAMILY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="TheAddamsFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Addams_gomez5.png" group-title="RETRO SERIES",ADDAMS FAMILY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d81607ab737153ea3c1c80e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=511&terminate=false&userId= 
+
+#EXTINF:-1,tvg-country="US" tvg-language="English" tvg-id="NASATVPublic.us" tvg-logo="https://www.pngfind.com/pngs/m/299-2995596_nasa-logo-photo-nasa-logo-1-1-hd.png" group-title="SPACE",NASA PUBLIC TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,tvg-country="US" tvg-language="English" tvg-id="NASATVMedia.us" tvg-logo="https://www.pngfind.com/pngs/m/299-2995596_nasa-logo-photo-nasa-logo-1-1-hd.png" group-title="SPACE",NASA TV MEDIA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1,tvg-country="US" tvg-language="English" tvg-id="NASATVISS.us" tvg-logo="https://www.pngfind.com/pngs/m/299-2995596_nasa-logo-photo-nasa-logo-1-1-hd.png" group-title="SPACE",NASA ISS
+http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=eaad2a891f0b4b421b9e905fa8a9b268c47041b0&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:-1,tvg-country="US" tvg-language="English" tvg-id="NASATVISSViews.us" tvg-logo="https://www.pngfind.com/pngs/m/299-2995596_nasa-logo-photo-nasa-logo-1-1-hd.png" group-title="SPACE",NASA ISS VIEWS
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,tvg-country="US" tvg-language="English" tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/299-2995596_nasa-logo-photo-nasa-logo-1-1-hd.png" group-title="SPACE",NASA ISS LIVE: EARTH FROM SPACE
+https://youtu.be/86YLFOog4GM
+#EXTINF:-1,tvg-country="US" tvg-language="English" tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/299-2995596_nasa-logo-photo-nasa-logo-1-1-hd.png" group-title="SPACE",NASA ISS LIVE: TRACKER 
+https://youtu.be/K0D-o1sXnGQ
